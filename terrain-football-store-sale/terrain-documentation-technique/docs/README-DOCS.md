@@ -1,1 +1,0 @@
-# Documentation TERRAIN\n\n- `architecture.md` : composants, diagrammes de flux et limites connues.\n- `data-model.md` : schéma relationnel SQLite.\n- `api-reference.md` : routes HTTP et droits d'accès.\n- `configuration-deployment.md` : installation, Stripe, SMTP et hébergement.\n
